@@ -21,16 +21,11 @@ public class cal
 					double remainder = num1 % num2;
 
 	       
-					System.out.println("Addition: " + sum);
-					System.out.println("Subtraction: " + difference);
 					System.out.println("Multiplication: " + product);
-					System.out.println("Division: " + quotient);
-					System.out.println("Modulus (Remainder): " + remainder);
+					
 				} else 
 				{
-					System.out.println("Cannot divide by zero.");
-					System.out.println("Addition: " + sum);
-					System.out.println("Subtraction: " + difference);
+					
 					System.out.println("Multiplication: " + product);
 
     }
